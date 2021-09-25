@@ -4,10 +4,10 @@
 // Auxalliary space is theta of (1)
 
 /* Input : 5
-		   1 4 7 3 8
+		   1 4 7 3 9
 		   */
 
-// Output : 8 3 7 4 1
+// Output : 9 3 7 4 1
 
 import java.util.*;
 public class Reverse_Arrayelement
