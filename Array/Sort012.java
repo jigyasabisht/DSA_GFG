@@ -1,5 +1,5 @@
 import java.util.*;
-public class Main
+public class Sort012
 {
 public static void main(String[] args) 
 {
